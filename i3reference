@@ -1,0 +1,4 @@
+#!/bin/bash
+
+#clear
+less ~/git/i3_ReferenceCard/README.md

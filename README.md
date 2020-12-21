@@ -46,6 +46,8 @@ $Mod4+$Shift+e       exit i3
 
 
 
+
+
 Copyright © 2012, Michael Stapelberg
 All rights reserved
 Designed by Zeus Panchenko, 
